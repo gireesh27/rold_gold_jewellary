@@ -1,6 +1,7 @@
+
 ---
 
-```
+```markdown
 # 💎 Rold-Gold Jewellery Website
 
 A premium jewellery ecommerce website built with modern web technologies to showcase elegant designs and facilitate user-friendly shopping experiences.
@@ -14,7 +15,7 @@ A premium jewellery ecommerce website built with modern web technologies to show
 - **Next.js (App Router)** – Full-stack React framework
 - **TypeScript** – Static typing for better maintainability
 - **Tailwind CSS** – Utility-first CSS framework
-- **NPM** – Fast, disk-efficient package manager
+- **PNPM** – Fast, disk-efficient package manager
 - **Vercel** – Deployment and hosting platform
 
 ---
@@ -102,13 +103,19 @@ pnpm start
 
 ## 📸 Screenshots
 
-_Add screenshots or demo GIFs here if needed_
-![image](https://github.com/user-attachments/assets/e99e5dd7-13f2-40f5-b6de-744bb7d24ead)
+![image](https://github.com/user-attachments/assets/d6e1522b-a228-488c-857f-c65df00922d3)
 
-![image](https://github.com/user-attachments/assets/47adb40d-101e-4831-b5f6-23d837823ce4)
+![image](https://github.com/user-attachments/assets/cb2b1a02-e051-406e-81a5-33f78bec6975)
 
 ---
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## ✨ Acknowledgements
 
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vercel](https://vercel.com/)
 ```
+
+---
+
