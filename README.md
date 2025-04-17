@@ -1,22 +1,22 @@
 
 ---
 
-```markdown
+
 # 💎 Rold-Gold Jewellery Website
 
 A premium jewellery ecommerce website built with modern web technologies to showcase elegant designs and facilitate user-friendly shopping experiences.
 
 🔗 Live Demo:-> https://rold-gold-jewellary.vercel.app/
 
----
+
 
 ## 🧰 Tech Stack
 
-- **Next.js (App Router)** – Full-stack React framework
-- **TypeScript** – Static typing for better maintainability
-- **Tailwind CSS** – Utility-first CSS framework
-- **PNPM** – Fast, disk-efficient package manager
-- **Vercel** – Deployment and hosting platform
+- Next.js (App Router) – Full-stack React framework
+- TypeScript - Static typing for better maintainability
+- Tailwind CSS – Utility-first CSS framework
+- NPM – Fast, disk-efficient package manager
+- Vercel – Deployment and hosting platform
 
 ---
 
