@@ -6,7 +6,7 @@
 
 A premium jewellery ecommerce website built with modern web technologies to showcase elegant designs and facilitate user-friendly shopping experiences.
 
-🔗 **Live Demo**: [https://rold-gold-jewellary.vercel.app/](https://rold-gold-jewellary.vercel.app/)
+🔗 **Live Demo**: [https://rold-gold-jewellary.vercel.app/]
 
 ---
 
@@ -116,6 +116,4 @@ pnpm start
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vercel](https://vercel.com/)
 ```
-
----
 
