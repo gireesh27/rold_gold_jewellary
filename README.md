@@ -115,5 +115,3 @@ pnpm start
 - [Tailwind CSS](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vercel](https://vercel.com/)
-```
-
